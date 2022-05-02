@@ -7,5 +7,5 @@ setup(
    author='Ravinder Bhattoo',
    author_email='',
    packages=['shadow'],
-   install_requires=['matplotlib', 'scipy', 'numpy']
+   install_requires=['matplotlib', 'scipy', 'numpy', 'shapely']
 )
